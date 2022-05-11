@@ -1,0 +1,28 @@
+Features
+1.Login and Registration Page
+2.Home/Dashboard Page
+  -Displays the summary
+3.Categories
+  -Add New Category
+  -List All Categories
+  -Update Category Details
+  -Delete Category Details
+4.Product
+  -Add New Product
+  -List All Products
+  -Update Product Details
+  -Delete Product Details
+5.Inventory
+  -List All Products
+  -View Products Stock History
+  -Add New Product Stock
+  -Update Product Stock
+  -Delete Product Stock
+6.Sales Transaction
+7.Invoices
+  -List All Invoices
+  -Delete Invoice Details
+8.Profile
+  -Update Profile Details
+  -Update Account Password
+9.Logout
